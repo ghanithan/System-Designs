@@ -19,7 +19,7 @@ Components:
 6.  Analyse the data and provide an insightful description for the product (using NLP and ML) - Phase - 2 
 
 
-![Image](https://drive.google.com/file/d/1NjR1OHCKyNP1jISDex-0tVu5g72vncK9/view?usp=sharing)
+![Image](https://github.com/ghanithan/System-Designs/blob/c25159660d20b6c80b87876c4973f5832639de1c/E-commerse%20data%20extractor.drawio.svg)
 
 
 ### Web Crawler:
